@@ -1,5 +1,5 @@
 # X360Arduino
-Allow your arduino to boards to act as an xbox 360 controller.
+Allow your arduino boards to act as an xbox 360 controller.
 
 This will allow you to use your arduino boards to execute xbox 360 controller button pressed which actually do work on
 an xbox 360. Yes thats right this library includes authentication and everything necessary to make it actually work
